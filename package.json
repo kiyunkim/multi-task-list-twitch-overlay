@@ -1,0 +1,22 @@
+{
+  "name": "multi-task-list-twitch-overlay",
+  "version": "1.0.0",
+  "description": "Personal twitch overlay for a task list that can handle multiple tasks at a time per user. Inspired by super sweet bot and rythondev's tasklist-overlay",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack serve",
+    "build": "webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "html-webpack-plugin": "~5.6.0",
+    "ts-loader": "~9.5.1",
+    "ts-node": "~10.9.2",
+    "typescript": "~5.5.3",
+    "webpack": "~5.92.1",
+    "webpack-cli": "~5.1.4",
+    "webpack-dev-server": "~5.0.4"
+  }
+}

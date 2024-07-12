@@ -1,0 +1,3 @@
+# Run TS and watch
+npx tsc -w
+
